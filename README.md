@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcinPierchala
-- 👀 I’m interested in Python, Django, Arduino, Raspberry Pi, PLC, 
-- 🌱 I’m currently learning Python, Django, PLC_Siemens, C#
-- 💞️ I’m looking to collaborate on Python/Django Dev`s, PLC Dev`s
+- 👀 I’m interested in Python, Django, C#, Arduino, Raspberry Pi, PLC, 
+- 🌱 I’m currently learning Python, Django, PLC_Siemens, C#,
+- 💞️ I’m looking to collaborate on Python/Django/C# Dev`s, PLC Dev`s,
 - 📫 How to reach me : soon, cause i`m working about it.
 
 <!---
